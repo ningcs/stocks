@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-bus-client/config-bus-client.iml" filepath="$PROJECT_DIR$/config-bus-client/config-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/demo (1).iml" filepath="$PROJECT_DIR$/config-client/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/demo (2).iml" filepath="$PROJECT_DIR$/config-server/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stocks.iml" filepath="$PROJECT_DIR$/stocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stocks-bonus/stocks-bonus.iml" filepath="$PROJECT_DIR$/stocks-bonus/stocks-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stocks-news/stocks-news.iml" filepath="$PROJECT_DIR$/stocks-news/stocks-news.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bonus" />
+        <module name="config-bus-client" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="core" />
+        <module name="demo (1)" />
+        <module name="demo (2)" />
+        <module name="eureka-server" />
+        <module name="stocks-bonus" />
+        <module name="stocks-news" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bonus" target="1.8" />
+      <module name="config-bus-client" target="1.8" />
+      <module name="config-bus-server" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="core" target="1.7" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="stocks" target="1.8" />
+      <module name="stocks-bonus" target="1.8" />
+      <module name="stocks-eureka" target="1.8" />
+      <module name="stocks-news" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
